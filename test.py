@@ -1,1 +1,1 @@
-range(50) #changement 10 à 50
+range(60) #changement 10 à 60
