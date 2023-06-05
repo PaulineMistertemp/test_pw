@@ -1,1 +1,1 @@
-range(100) #changement 10 à 100
+range(1000) #changement 10 à 1000
